@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=050 - ICs - Analog$
+LastFocusedTable=001 - Capacitors - SMD Ceramics$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -32,26 +32,35 @@ TableName=050 - ICs - Analog$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=869|Value0=83|Package0=103|MPN0=125|Manufacturer0=159|Distributor PN0=149|Distributor0=121|Datasheet0=1061|Distributor Link0=1479|Library Ref0=120|Library Path0=357|Footprint Ref0=139|Footprint Path0=323
 [FieldMap1]
-Options=FieldName=001 - Capacitors - SMD Ceramics$.Description|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap2]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Library Ref|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=001 - Capacitors - SMD Ceramics$.ID|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=001 - Capacitors - SMD Ceramics$.Library Path|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=001 - Capacitors - SMD Ceramics$.Description|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
-Options=FieldName=001 - Capacitors - SMD Ceramics$.Footprint Ref|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=001 - Capacitors - SMD Ceramics$.Value|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
-Options=FieldName=001 - Capacitors - SMD Ceramics$.Footprint Path|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=001 - Capacitors - SMD Ceramics$.Package|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Package|FieldType=1|ParameterName=Package|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap6]
-Options=FieldName=050 - ICs - Analog$.Description|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=001 - Capacitors - SMD Ceramics$.Library Path|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap7]
-Options=FieldName=050 - ICs - Analog$.Library Ref|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=001 - Capacitors - SMD Ceramics$.Footprint Ref|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap8]
-Options=FieldName=050 - ICs - Analog$.Library Path|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=001 - Capacitors - SMD Ceramics$.Footprint Path|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap9]
-Options=FieldName=050 - ICs - Analog$.Footprint Ref|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=050 - ICs - Analog$.Description|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap10]
+Options=FieldName=050 - ICs - Analog$.Library Ref|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=050 - ICs - Analog$.Library Path|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=050 - ICs - Analog$.Footprint Ref|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
 Options=FieldName=050 - ICs - Analog$.Footprint Path|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=050 - ICs - Analog$.ID|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=050 - ICs - Analog$.Value|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=050 - ICs - Analog$.Package|TableNameOnly=050 - ICs - Analog$|FieldNameOnly=Package|FieldType=1|ParameterName=Package|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
