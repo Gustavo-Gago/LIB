@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=001 - Capacitors - SMD Ceramics$
+LastFocusedTable=010 - Resistors - SMD$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=120|ID0=57|Description0=126|Value0=83|Package0=103|Library Path0=131|Footprint Ref0=139|Footprint Path0=150|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156
 [Table2]
 SchemaName=
 TableName=010 - Resistors - SMD$
@@ -37,43 +34,31 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=57|Description0=126|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150
+BrowserOrder_Visible=ID0=80|Description0=703|Library Ref0=120|Library Path0=396|Footprint Ref0=139|Footprint Path0=323|Value0=141|Package0=103|MPN0=159|Manufacturer0=143|Distributor PN0=193|Distributor0=121|Datasheet0=372|Distributor Link0=1048
 [Table3]
 SchemaName=
 TableName=015 - Resistors - Shunt$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=645|Value0=102|Package0=103|MPN0=147|Manufacturer0=180|Distributor PN0=181|Distributor0=121|Datasheet0=784|Distributor Link0=930|Library Ref0=120|Library Path0=396|Footprint Ref0=139|Footprint Path0=323
 [Table4]
 SchemaName=
 TableName=020 - Inductor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=F10=57|ID0=57|Description0=126|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150
 [Table5]
 SchemaName=
 TableName=050 - ICs - Analog$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=869|Library Ref0=120|Library Path0=360|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=103|MPN0=125|Manufacturer0=159|Distributor PN0=149|Distributor0=121|Datasheet0=1061|Distributor Link0=1479
 [Table6]
 SchemaName=
 TableName=060 - ICs - Digital$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=57|Description0=126|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150
 [FieldMap1]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Library Ref|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
