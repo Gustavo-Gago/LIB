@@ -1,8 +1,11 @@
-# Altium generated folders
+# Altium generated folders 
 History/
 __Previews/
 Project Outputs for*/
 Generated/
+
+# Altium history files (IMPORTANTE)
+*History*
 
 # Temporary and backup files
 *.tmp
