@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=001 - Capacitors - SMD Ceramics$
+LastFocusedTable=050 - ICs - Analog$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=152|ID0=80|Description0=670|Value0=131|Package0=103|Library Path0=417|Footprint Ref0=139|Footprint Path0=323|MPN0=238|Manufacturer0=328|Distributor PN0=149|Distributor0=121|Datasheet0=1037|Distributor Link0=1234
 [Table2]
 SchemaName=
 TableName=010 - Resistors - SMD$
@@ -65,6 +62,9 @@ TableName=050 - ICs - Analog$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=869|Library Ref0=120|Library Path0=360|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=103|MPN0=125|Manufacturer0=159|Distributor PN0=152|Distributor0=121|Datasheet0=1061|Distributor Link0=1479
 [Table8]
 SchemaName=
 TableName=060 - ICs - Digital$
