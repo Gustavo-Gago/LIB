@@ -26,6 +26,9 @@ TableName=001 - Capacitors - SMD Ceramics$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{ComponentLink1URL}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Value0=131|Package0=103|Library Ref0=152|Library Path0=417|Footprint Path0=323|Description0=670|Distributor Link0=1234|Footprint Ref0=139|ID0=80|Datasheet0=1037|MPN0=238|Manufacturer0=328|Distributor PN0=149|Distributor0=121
 [Table2]
 SchemaName=
 TableName=010 - Resistors - SMD$
@@ -43,43 +46,61 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=645|Value0=102|Package0=103|MPN0=147|Manufacturer0=180|Distributor PN0=181|Distributor0=121|Datasheet0=784|Distributor Link0=930|Library Ref0=120|Library Path0=396|Footprint Ref0=139|Footprint Path0=323
+BrowserOrder_Visible=Description0=645|Library Ref0=120|Library Path0=396|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=102|Package0=103|MPN0=147|Manufacturer0=180|Distributor PN0=181|Distributor0=121|Datasheet0=784|Distributor Link0=930
 [Table4]
 SchemaName=
 TableName=020 - Inductor$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=126|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150|ID0=57|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156
 [Table5]
 SchemaName=
 TableName=030 - Diodes$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=126|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150|ID0=57|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156
 [Table6]
 SchemaName=
 TableName=040 - Fuses$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=436|Library Ref0=120|Library Path0=378|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=103|MPN0=78|Manufacturer0=165|Distributor PN0=149|Distributor0=121|Datasheet0=434|Distributor Link0=832
 [Table7]
 SchemaName=
 TableName=050 - ICs - Analog$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=869|Library Ref0=120|Library Path0=360|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=103|MPN0=125|Manufacturer0=159|Distributor PN0=152|Distributor0=121|Datasheet0=1061|Distributor Link0=1479
 [Table8]
 SchemaName=
 TableName=060 - ICs - Digital$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=126|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150|ID0=57|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156
 [Table9]
 SchemaName=
 TableName=070 - Power Supply - DCDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=883|Library Ref0=120|Library Path0=447|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=149|MPN0=120|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=372|Distributor Link0=842
 [FieldMap1]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Value|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=2|RemoveMode=0|UpdateMode=0
 [FieldMap2]
