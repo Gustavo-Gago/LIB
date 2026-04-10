@@ -76,7 +76,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=646|Library Ref0=120|Library Path0=447|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=140|Datasheet0=347|Distributor Link0=836|MPN0=95|Manufacturer0=143|Distributor PN0=149|Distributor0=121
+BrowserOrder_Visible=Description0=658|Library Ref0=120|Library Path0=447|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=140|Datasheet0=347|Distributor Link0=841|MPN0=104|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [FieldMap1]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Value|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=2|RemoveMode=0|UpdateMode=0
 [FieldMap2]
