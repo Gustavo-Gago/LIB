@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=060 - ICs - Digital$
+LastFocusedTable=110 - Connectors$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -32,99 +32,66 @@ TableName=010 - Resistors - SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{Datasheet}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=826|Value0=182|Package0=103|Library Ref0=120|Library Path0=403|Footprint Ref0=139|Footprint Path0=323|Distributor Link0=1542|ID0=80|Datasheet0=1629|MPN0=204|Manufacturer0=229|Distributor PN0=192|Distributor0=121
 [Table3]
 SchemaName=
 TableName=015 - Resistors - Shunt$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=645|Library Ref0=120|Library Path0=403|Footprint Path0=323|ID0=80|Value0=117|Package0=103|Datasheet0=784|Distributor Link0=930|Footprint Ref0=139|MPN0=195|Manufacturer0=180|Distributor PN0=181|Distributor0=121
 [Table4]
 SchemaName=
 TableName=020 - Inductor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=126|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150|ID0=57|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156
 [Table5]
 SchemaName=
 TableName=030 - Diode - Rectifier$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=580|Library Ref0=120|Library Path0=382|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=162|Package0=103|MPN0=120|Manufacturer0=243|Distributor PN0=149|Distributor0=121|Datasheet0=878|Distributor Link0=1098
 [Table6]
 SchemaName=
 TableName=031 - Diode - Schottky$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=609|Library Ref0=172|Library Path0=382|Footprint Ref0=147|Footprint Path0=323|ID0=80|Value0=224|Package0=153|MPN0=140|Manufacturer0=265|Distributor PN0=165|Distributor0=121|Datasheet0=1964|Distributor Link0=3419
 [Table7]
 SchemaName=
 TableName=032 - Diode - TVS$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=938|Value0=83|Package0=140|MPN0=154|Manufacturer0=291|Distributor PN0=149|Distributor0=121|Datasheet0=984|Distributor Link0=1587|Library Ref0=172|Library Path0=404|Footprint Ref0=139|Footprint Path0=345
 [Table8]
 SchemaName=
 TableName=033 - Diode - LED$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=938|Library Ref0=172|Library Path0=382|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=140|MPN0=154|Manufacturer0=291|Distributor PN0=149|Distributor0=121|Datasheet0=984|Distributor Link0=1587
 [Table9]
 SchemaName=
 TableName=040 - Fuses$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=536|Library Ref0=120|Library Path0=378|Footprint Ref0=176|Footprint Path0=323|ID0=80|Value0=83|Package0=146|MPN0=155|Manufacturer0=233|Distributor PN0=154|Distributor0=121|Datasheet0=1221|Distributor Link0=945|F150=66
 [Table10]
 SchemaName=
 TableName=050 - ICs - Analog$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=869|Library Ref0=120|Library Path0=360|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=103|Datasheet0=1061|Distributor Link0=1479|MPN0=125|Manufacturer0=159|Distributor PN0=152|Distributor0=121
 [Table11]
 SchemaName=
 TableName=060 - ICs - Digital$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=126|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150|ID0=57|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156
 [Table12]
 SchemaName=
 TableName=070 - Power Supply - DCDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=658|Library Ref0=120|Library Path0=435|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=140|Datasheet0=347|Distributor Link0=841|MPN0=104|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [Table13]
 SchemaName=
 TableName=110 - Connectors$
