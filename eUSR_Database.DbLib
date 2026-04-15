@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=110 - Connectors$
+LastFocusedTable=033 - Diode - LED$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -32,51 +32,39 @@ TableName=010 - Resistors - SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{Datasheet}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=826|Value0=182|Package0=103|Library Ref0=120|Library Path0=403|Footprint Ref0=139|Footprint Path0=323|Distributor Link0=1542|ID0=80|Datasheet0=1629|MPN0=204|Manufacturer0=229|Distributor PN0=192|Distributor0=121
 [Table3]
 SchemaName=
 TableName=015 - Resistors - Shunt$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=645|Library Ref0=120|Library Path0=403|Footprint Path0=323|ID0=80|Value0=117|Package0=103|Datasheet0=784|Distributor Link0=930|Footprint Ref0=139|MPN0=195|Manufacturer0=180|Distributor PN0=181|Distributor0=121
 [Table4]
 SchemaName=
 TableName=020 - Inductor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=126|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150|ID0=57|Value0=83|Package0=103|Datasheet0=117|Distributor Link0=156|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [Table5]
 SchemaName=
 TableName=030 - Diode - Rectifier$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=580|Library Ref0=120|Library Path0=382|Footprint Ref0=139|Footprint Path0=323|ID0=80|Datasheet0=878|Distributor Link0=1098|Value0=162|Package0=103|MPN0=120|Manufacturer0=243|Distributor PN0=149|Distributor0=121
 [Table6]
 SchemaName=
 TableName=031 - Diode - Schottky$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=609|Library Ref0=172|Library Path0=382|Footprint Ref0=147|Footprint Path0=323|ID0=80|Datasheet0=1964|Distributor Link0=3419|Value0=224|Package0=153|MPN0=140|Manufacturer0=265|Distributor PN0=165|Distributor0=121
 [Table7]
 SchemaName=
 TableName=032 - Diode - TVS$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=80|Description0=938|Datasheet0=984|Distributor Link0=1587|Library Ref0=172|Library Path0=404|Footprint Ref0=139|Footprint Path0=345|Value0=83|Package0=140|MPN0=154|Manufacturer0=291|Distributor PN0=149|Distributor0=121
 [Table8]
 SchemaName=
 TableName=033 - Diode - LED$
@@ -85,7 +73,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=938|Library Ref0=172|Library Path0=382|Footprint Ref0=139|Footprint Path0=323|ID0=80|Datasheet0=984|Distributor Link0=1587|Value0=83|Package0=140|MPN0=154|Manufacturer0=291|Distributor PN0=149|Distributor0=121
+BrowserOrder_Visible=Description0=1170|Library Ref0=172|Library Path0=395|Footprint Ref0=177|Footprint Path0=345|ID0=80|Datasheet0=1070|Distributor Link0=1260|Value0=83|Package0=139|MPN0=278|Manufacturer0=291|Distributor PN0=204|Distributor0=121
 [Table9]
 SchemaName=
 TableName=040 - Fuses$
@@ -98,9 +86,6 @@ TableName=050 - ICs - Analog$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=869|Library Ref0=120|Library Path0=360|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=103|Datasheet0=1061|Distributor Link0=1479|MPN0=125|Manufacturer0=159|Distributor PN0=152|Distributor0=121
 [Table11]
 SchemaName=
 TableName=060 - ICs - Digital$
@@ -113,27 +98,18 @@ TableName=070 - Power Supply - DCDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=658|Library Ref0=120|Library Path0=435|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=140|Datasheet0=347|Distributor Link0=841|MPN0=104|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [Table13]
 SchemaName=
 TableName=100 - Electromechanicals$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=872|Library Ref0=160|Library Path0=482|Footprint Ref0=187|Footprint Path0=323|ID0=80|Value0=119|Package0=158|MPN0=170|Manufacturer0=192|Distributor PN0=198|Distributor0=121|Datasheet0=1502|Distributor Link0=1431
 [Table14]
 SchemaName=
 TableName=110 - Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=ID0=Up
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=1269|Value0=152|Datasheet0=1565|Distributor Link0=4442|Library Ref0=184|Library Path0=424|Footprint Ref0=311|Footprint Path0=323|Package0=219|MPN0=212|Manufacturer0=310|Distributor PN0=232|Distributor0=148
 [FieldMap1]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Value|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=2|RemoveMode=0|UpdateMode=0
 [FieldMap2]
