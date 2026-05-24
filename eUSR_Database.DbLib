@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=033 - Diode - LED$
+LastFocusedTable=110 - Connectors$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -32,15 +32,15 @@ TableName=010 - Resistors - SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{Datasheet}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=826|Value0=182|Package0=103|Library Ref0=120|Library Path0=403|Footprint Ref0=139|Footprint Path0=323|Distributor Link0=1542|ID0=80|Datasheet0=1629|MPN0=204|Manufacturer0=229|Distributor PN0=192|Distributor0=121
 [Table3]
 SchemaName=
 TableName=015 - Resistors - Shunt$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=645|Library Ref0=120|Library Path0=403|Footprint Path0=323|ID0=80|Value0=117|Package0=103|Datasheet0=784|Distributor Link0=930|Footprint Ref0=139|MPN0=195|Manufacturer0=180|Distributor PN0=181|Distributor0=121
 [Table4]
 SchemaName=
 TableName=020 - Inductor$
@@ -71,9 +71,6 @@ TableName=033 - Diode - LED$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=1170|Library Ref0=172|Library Path0=373|Footprint Ref0=177|Footprint Path0=323|ID0=80|Datasheet0=1070|Distributor Link0=1260|Value0=83|Package0=139|MPN0=278|Manufacturer0=291|Distributor PN0=204|Distributor0=121
 [Table9]
 SchemaName=
 TableName=040 - Fuses$
@@ -110,6 +107,9 @@ TableName=110 - Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=80|Description0=1269|Value0=152|Datasheet0=1565|Distributor Link0=4442|Library Ref0=184|Library Path0=424|Footprint Ref0=311|Footprint Path0=323|Package0=219|MPN0=212|Manufacturer0=310|Distributor PN0=232|Distributor0=148
 [FieldMap1]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Value|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=2|RemoveMode=0|UpdateMode=0
 [FieldMap2]
