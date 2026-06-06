@@ -28,7 +28,7 @@ UserWhere=0
 UserWhereText=[Datasheet] = '{ComponentLink1URL}'
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Value0=131|Package0=103|Library Ref0=152|Footprint Path0=323|Description0=680|Distributor Link0=1234|Footprint Ref0=139|Datasheet0=1037|ID0=80|Library Path0=417|MPN0=238|Manufacturer0=328|Distributor PN0=198|Distributor0=121
+BrowserOrder_Visible=Value0=131|Package0=103|Library Ref0=152|Footprint Path0=323|Description0=769|Distributor Link0=1234|Footprint Ref0=139|Datasheet0=1037|ID0=80|Library Path0=417|MPN0=238|Manufacturer0=328|Distributor PN0=198|Distributor0=121
 [Table2]
 SchemaName=
 TableName=003 - Capacitors - THT Electrol$
