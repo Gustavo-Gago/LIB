@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=001 - Capacitors - SMD Ceramics$
+LastFocusedTable=90 - Processor$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -137,12 +137,27 @@ TableName=100 - Electromechanicals$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=872|Library Ref0=160|Library Path0=482|Footprint Ref0=187|Footprint Path0=323|ID0=80|Value0=119|Datasheet0=1502|Distributor Link0=1431|Package0=158|MPN0=170|Manufacturer0=192|Distributor PN0=198|Distributor0=121
 [Table16]
 SchemaName=
 TableName=110 - Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=80|Description0=1269|Value0=152|Datasheet0=1565|Distributor Link0=4442|Library Ref0=184|Library Path0=424|Footprint Ref0=311|Footprint Path0=323|Package0=219|MPN0=212|Manufacturer0=310|Distributor PN0=232|Distributor0=148
+[Table17]
+SchemaName=
+TableName=90 - Processor$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=80|Description0=925|Value0=83|Package0=103|MPN0=138|Manufacturer0=152|Distributor PN0=172|Part0=71|Distributor0=138|Datasheet0=474|Distributor Link0=931|Library Ref0=138|Library Path0=403|Footprint Ref0=139|Footprint Path0=323
 [FieldMap1]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Value|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=2|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -441,3 +456,19 @@ Options=FieldName=110 - Connectors$.Library Path|TableNameOnly=110 - Connectors$
 Options=FieldName=110 - Connectors$.Footprint Ref|TableNameOnly=110 - Connectors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap149]
 Options=FieldName=110 - Connectors$.Footprint Path|TableNameOnly=110 - Connectors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap150]
+Options=FieldName=90 - Processor$.ID|TableNameOnly=90 - Processor$|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap151]
+Options=FieldName=90 - Processor$.Description|TableNameOnly=90 - Processor$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap152]
+Options=FieldName=90 - Processor$.Datasheet|TableNameOnly=90 - Processor$|FieldNameOnly=Datasheet|FieldType=1|ParameterName=ComponentLink1URL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap153]
+Options=FieldName=90 - Processor$.Distributor Link|TableNameOnly=90 - Processor$|FieldNameOnly=Distributor Link|FieldType=1|ParameterName=ComponentLink2URL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap154]
+Options=FieldName=90 - Processor$.Library Ref|TableNameOnly=90 - Processor$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap155]
+Options=FieldName=90 - Processor$.Library Path|TableNameOnly=90 - Processor$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap156]
+Options=FieldName=90 - Processor$.Footprint Ref|TableNameOnly=90 - Processor$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap157]
+Options=FieldName=90 - Processor$.Footprint Path|TableNameOnly=90 - Processor$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
