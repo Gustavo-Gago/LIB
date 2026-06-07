@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -52,7 +52,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=645|Library Ref0=120|Library Path0=403|Footprint Path0=323|ID0=80|Value0=117|Package0=129|Datasheet0=784|Distributor Link0=930|Footprint Ref0=193|MPN0=195|Manufacturer0=180|Distributor PN0=195|Distributor0=121
+BrowserOrder_Visible=Description0=702|Library Ref0=120|Library Path0=403|Footprint Path0=323|ID0=80|Value0=126|Package0=129|Datasheet0=784|Distributor Link0=930|Footprint Ref0=193|MPN0=195|Manufacturer0=180|Distributor PN0=195|Distributor0=121
 [Table5]
 SchemaName=
 TableName=020 - Inductor$
