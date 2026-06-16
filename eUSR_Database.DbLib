@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=042 - NTC$
+LastFocusedTable=001 - Capacitors - SMD Ceramics$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -98,18 +98,12 @@ TableName=042 - NTC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=57|Description0=126|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121|Datasheet0=117|Distributor Link0=156|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150
 [Table14]
 SchemaName=
 TableName=043 - Transistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=577|Datasheet0=740|Distributor Link0=1005|Library Ref0=136|Library Path0=418|Footprint Ref0=139|Footprint Path0=323|Value0=83|Package0=117|MPN0=203|Manufacturer0=178|Distributor PN0=202|Distributor0=121
 [Table15]
 SchemaName=
 TableName=045 - Crystal$
@@ -128,9 +122,6 @@ TableName=055 - Drivers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=923|Distributor Link0=904|Library Ref0=120|Library Path0=389|Footprint Ref0=139|Footprint Path0=323|Value0=83|Package0=103|MPN0=162|Manufacturer0=148|Distributor PN0=196|Distributor0=121|Datasheet0=1160
 [Table18]
 SchemaName=
 TableName=060 - ICs - Digital$
@@ -143,27 +134,18 @@ TableName=070 - Power Supply - DCDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=888|Library Ref0=138|Library Path0=435|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=105|Package0=149|Datasheet0=430|Distributor Link0=973|MPN0=159|Manufacturer0=192|Distributor PN0=188|Distributor0=121
 [Table20]
 SchemaName=
 TableName=090 - Processor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=925|Datasheet0=962|Distributor Link0=997|Library Ref0=167|Library Path0=410|Footprint Ref0=167|Footprint Path0=323|Value0=83|Package0=103|MPN0=167|Manufacturer0=152|Distributor PN0=201|Part0=71|Distributor0=121
 [Table21]
 SchemaName=
 TableName=100 - Electromechanicals$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=872|Library Ref0=160|Library Path0=482|Footprint Ref0=187|Footprint Path0=323|ID0=80|Value0=119|Datasheet0=1502|Distributor Link0=1431|Package0=158|MPN0=170|Manufacturer0=192|Distributor PN0=198|Distributor0=121
 [Table22]
 SchemaName=
 TableName=110 - Connectors$
