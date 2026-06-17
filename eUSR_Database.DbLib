@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -137,18 +137,12 @@ TableName=062 - Amplifiers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=820|Value0=83|Package0=103|MPN0=137|Manufacturer0=148|Distributor PN0=171|Distributor0=121|Datasheet0=1861|Distributor Link0=931|Library Ref0=120|Library Path0=412|Footprint Ref0=139|Footprint Path0=323
 [Table20]
 SchemaName=
 TableName=070 - Power Supply - DCDC$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=888|Library Ref0=138|Library Path0=435|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=105|Package0=149|Datasheet0=430|Distributor Link0=973|MPN0=159|Manufacturer0=192|Distributor PN0=188|Distributor0=121
 [Table21]
 SchemaName=
 TableName=090 - Processor$
