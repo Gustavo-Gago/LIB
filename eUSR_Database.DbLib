@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=001 - Capacitors - SMD Ceramics$
+LastFocusedTable=010 - Resistors - SMD$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -35,6 +35,9 @@ TableName=003 - Capacitors - THT Electrol$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=744|Library Ref0=120|Library Path0=417|Footprint Ref0=139|Footprint Path0=323|ID0=80|Datasheet0=621|Distributor Link0=871|Value0=147|Package0=138|MPN0=118|Manufacturer0=143|Distributor PN0=152|Distributor0=121
 [Table3]
 SchemaName=
 TableName=004 - Capacitors - Film$
@@ -47,6 +50,9 @@ TableName=010 - Resistors - SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{Datasheet}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=845|Value0=182|Package0=103|Library Ref0=120|Library Path0=403|Footprint Ref0=139|Footprint Path0=323|Distributor Link0=1542|ID0=80|Datasheet0=2403|MPN0=204|Manufacturer0=229|Distributor PN0=207|Distributor0=121
 [Table5]
 SchemaName=
 TableName=015 - Resistors - Shunt$
