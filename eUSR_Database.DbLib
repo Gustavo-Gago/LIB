@@ -140,6 +140,9 @@ TableName=070 - Power Supply$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=80|Description0=888|Datasheet0=949|Distributor Link0=973|Library Ref0=138|Footprint Ref0=139|Footprint Path0=323|Library Path0=435|Value0=175|Package0=149|MPN0=159|Manufacturer0=192|Distributor PN0=188|Distributor0=121
 [Table21]
 SchemaName=
 TableName=090 - Processor$
