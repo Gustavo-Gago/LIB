@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=090 - Processor$
+LastFocusedTable=001 - Capacitors - SMD Ceramics$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -104,81 +104,54 @@ TableName=043 - Transistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=577|Datasheet0=740|Distributor Link0=1005|Library Ref0=136|Library Path0=418|Footprint Ref0=139|Footprint Path0=323|Value0=83|Package0=117|MPN0=203|Manufacturer0=178|Distributor PN0=202|Distributor0=121
 [Table15]
 SchemaName=
 TableName=045 - Crystal$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=1403|Datasheet0=487|Distributor Link0=910|Library Ref0=120|Library Path0=388|Footprint Ref0=139|Footprint Path0=323|Value0=83|Package0=108|MPN0=183|Manufacturer0=143|Distributor PN0=196|Distributor0=121
 [Table16]
 SchemaName=
 TableName=050 - ICs - Analog$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=869|Library Ref0=128|Library Path0=360|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=83|Package0=103|Datasheet0=2093|Distributor Link0=1479|MPN0=191|Manufacturer0=152|Distributor PN0=216|Distributor0=121
 [Table17]
 SchemaName=
 TableName=051 - ICs - Digital$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=126|Library Ref0=120|Library Path0=131|Footprint Ref0=139|Footprint Path0=150|ID0=57|Datasheet0=117|Distributor Link0=156|Value0=83|Package0=103|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [Table18]
 SchemaName=
 TableName=055 - Drivers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=923|Distributor Link0=904|Library Ref0=120|Library Path0=389|Footprint Ref0=139|Footprint Path0=323|Datasheet0=1160|Value0=83|Package0=103|MPN0=162|Manufacturer0=148|Distributor PN0=196|Distributor0=121
 [Table19]
 SchemaName=
 TableName=060 - Sensor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=1467|Library Ref0=120|Library Path0=395|Footprint Ref0=139|Footprint Path0=323|ID0=80|Datasheet0=564|Distributor Link0=689|Value0=83|Package0=110|MPN0=78|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [Table20]
 SchemaName=
 TableName=062 - Amplifiers$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=820|Datasheet0=1861|Distributor Link0=931|Library Ref0=120|Library Path0=412|Footprint Ref0=139|Footprint Path0=323|Value0=83|Package0=103|MPN0=137|Manufacturer0=148|Distributor PN0=171|Distributor0=121
 [Table21]
 SchemaName=
 TableName=070 - Power Supply$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=888|Datasheet0=949|Distributor Link0=973|Library Ref0=138|Footprint Ref0=139|Footprint Path0=323|Library Path0=435|Value0=175|Package0=149|MPN0=159|Manufacturer0=192|Distributor PN0=188|Distributor0=121
 [Table22]
 SchemaName=
 TableName=090 - Processor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=925|Datasheet0=962|Distributor Link0=997|Library Ref0=167|Library Path0=410|Footprint Ref0=167|Footprint Path0=323|Value0=83|Package0=103|MPN0=167|Manufacturer0=152|Distributor PN0=201|Part0=71|Distributor0=121
 [Table23]
 SchemaName=
 TableName=100 - Electromechanicals$
