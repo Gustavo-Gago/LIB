@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=001 - Capacitors - SMD Ceramics$
+LastFocusedTable=110 - Connectors$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{ComponentLink1URL}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Value0=136|Package0=103|Library Ref0=152|Footprint Path0=323|Description0=1144|Distributor Link0=1234|Footprint Ref0=139|Datasheet0=1226|ID0=80|Library Path0=417|MPN0=238|Manufacturer0=328|Distributor PN0=205|Distributor0=121
 [Table2]
 SchemaName=
 TableName=003 - Capacitors - THT Electrol$
@@ -137,9 +134,6 @@ TableName=060 - Sensor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=1467|Library Ref0=120|Library Path0=395|Footprint Ref0=139|Footprint Path0=323|ID0=80|Datasheet0=646|Distributor Link0=986|Value0=152|Package0=110|MPN0=158|Manufacturer0=143|Distributor PN0=192|Distributor0=121
 [Table20]
 SchemaName=
 TableName=062 - Amplifiers$
@@ -170,6 +164,9 @@ TableName=110 - Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=80|Description0=1269|Value0=152|Datasheet0=1565|Distributor Link0=4442|Library Ref0=184|Library Path0=424|Footprint Ref0=311|Footprint Path0=323|Package0=219|MPN0=212|Manufacturer0=310|Distributor PN0=232|Distributor0=148
 [FieldMap1]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Value|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=2|RemoveMode=0|UpdateMode=0
 [FieldMap2]
