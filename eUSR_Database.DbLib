@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=001 - Capacitors - SMD Ceramics$
+LastFocusedTable=100 - Electromechanicals$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
@@ -176,12 +176,18 @@ TableName=100 - Electromechanicals$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=872|Library Ref0=160|Library Path0=482|Footprint Ref0=187|Footprint Path0=323|ID0=80|Value0=119|Datasheet0=1502|Distributor Link0=1431|Package0=158|MPN0=170|Manufacturer0=192|Distributor PN0=198|Distributor0=121
 [Table26]
 SchemaName=
 TableName=110 - Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=80|Description0=1269|Value0=152|Datasheet0=1565|Distributor Link0=4442|Library Ref0=184|Library Path0=424|Footprint Ref0=311|Footprint Path0=323|Package0=219|MPN0=212|Manufacturer0=310|Distributor PN0=232|Distributor0=148
 [FieldMap1]
 Options=FieldName=001 - Capacitors - SMD Ceramics$.Value|TableNameOnly=001 - Capacitors - SMD Ceramics$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=2|RemoveMode=0|UpdateMode=0
 [FieldMap2]
