@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_D
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,25 +19,19 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=100 - Electromechanicals$
+LastFocusedTable=110 - Connectors$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{ComponentLink1URL}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Value0=136|Package0=103|Library Ref0=152|Footprint Path0=323|Description0=1144|Distributor Link0=1234|Footprint Ref0=139|Datasheet0=1226|ID0=80|Library Path0=417|MPN0=238|Manufacturer0=328|Distributor PN0=205|Distributor0=121
 [Table2]
 SchemaName=
 TableName=002 - Capacitors - SMD Electrol$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=613|Value0=126|Package0=152|MPN0=118|Manufacturer0=143|Distributor PN0=152|Distributor0=121|Datasheet0=621|Distributor Link0=1183|Library Ref0=120|Library Path0=417|Footprint Ref0=194|Footprint Path0=323
 [Table3]
 SchemaName=
 TableName=003 - Capacitors - THT Electrol$
@@ -176,9 +170,6 @@ TableName=100 - Electromechanicals$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=872|Library Ref0=160|Library Path0=482|Footprint Ref0=187|Footprint Path0=323|ID0=80|Value0=119|Datasheet0=1502|Distributor Link0=1431|Package0=158|MPN0=170|Manufacturer0=192|Distributor PN0=198|Distributor0=121
 [Table26]
 SchemaName=
 TableName=110 - Connectors$
