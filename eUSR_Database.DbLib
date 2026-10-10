@@ -19,16 +19,13 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=041 - Optoisolators$
+LastFocusedTable=043 - Transistors$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{ComponentLink1URL}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Value0=117|Package0=75|Library Ref0=123|Footprint Path0=262|Description0=928|Distributor Link0=1008|Footprint Ref0=106|Datasheet0=1006|ID0=72|Library Path0=337|MPN0=201|Manufacturer0=265|Distributor PN0=176|Distributor0=91
 [Table2]
 SchemaName=
 TableName=002 - Capacitors - SMD Electrol$
@@ -53,9 +50,6 @@ TableName=010 - Resistors - SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{Datasheet}'
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=701|Value0=155|Package0=75|Library Ref0=90|Library Path0=327|Footprint Ref0=105|Footprint Path0=262|Distributor Link0=1256|ID0=72|Datasheet0=1967|MPN0=174|Manufacturer0=187|Distributor PN0=180|Distributor0=91
 [Table6]
 SchemaName=
 TableName=015 - Resistors - Shunt$
@@ -122,15 +116,15 @@ TableName=041 - Optoisolators$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=72|Description0=548|Datasheet0=3450|Distributor Link0=767|Library Ref0=125|Library Path0=356|Footprint Ref0=105|Footprint Path0=262|Value0=59|Package0=75|MPN0=131|Manufacturer0=121|Distributor PN0=161|Distributor0=91
 [Table17]
 SchemaName=
 TableName=043 - Transistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=72|Description0=475|Datasheet0=604|Distributor Link0=816|Library Ref0=115|Library Path0=339|Footprint Ref0=105|Footprint Path0=262|Value0=59|Package0=100|MPN0=171|Manufacturer0=151|Distributor PN0=171|Distributor0=91
 [Table18]
 SchemaName=
 TableName=045 - Crystal$
@@ -185,9 +179,6 @@ TableName=100 - Electromechanicals$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=707|Library Ref0=134|Library Path0=387|Footprint Ref0=162|Footprint Path0=262|ID0=72|Value0=127|Datasheet0=1221|Distributor Link0=1174|Package0=133|MPN0=143|Manufacturer0=156|Distributor PN0=170|Distributor0=91
 [Table27]
 SchemaName=
 TableName=110 - Connectors$
