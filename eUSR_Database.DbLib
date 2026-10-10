@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Git\LIB\eUSR_Database.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Javier\Desktop\MOTO\LIB\eUSR_Database.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,13 +19,16 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=020 - Inductor$
+LastFocusedTable=041 - Optoisolators$
 [Table1]
 SchemaName=
 TableName=001 - Capacitors - SMD Ceramics$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{ComponentLink1URL}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Value0=117|Package0=75|Library Ref0=123|Footprint Path0=262|Description0=928|Distributor Link0=1008|Footprint Ref0=106|Datasheet0=1006|ID0=72|Library Path0=337|MPN0=201|Manufacturer0=265|Distributor PN0=176|Distributor0=91
 [Table2]
 SchemaName=
 TableName=002 - Capacitors - SMD Electrol$
@@ -50,6 +53,9 @@ TableName=010 - Resistors - SMD$
 Enabled=True
 UserWhere=0
 UserWhereText=[Datasheet] = '{Datasheet}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=701|Value0=155|Package0=75|Library Ref0=90|Library Path0=327|Footprint Ref0=105|Footprint Path0=262|Distributor Link0=1256|ID0=72|Datasheet0=1967|MPN0=174|Manufacturer0=187|Distributor PN0=180|Distributor0=91
 [Table6]
 SchemaName=
 TableName=015 - Resistors - Shunt$
@@ -62,27 +68,18 @@ TableName=020 - Inductor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=618|Library Ref0=120|Library Path0=402|Footprint Ref0=139|Footprint Path0=323|ID0=80|Value0=182|Package0=132|Datasheet0=612|Distributor Link0=905|MPN0=109|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [Table8]
 SchemaName=
 TableName=023 - Inductor - CMM$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=557|Library Ref0=120|Library Path0=402|Footprint Ref0=219|Footprint Path0=323|ID0=80|Value0=173|Package0=123|Datasheet0=603|Distributor Link0=855|MPN0=100|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [Table9]
 SchemaName=
 TableName=025 - Inductor - Ferrite$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=80|Description0=864|Datasheet0=612|Distributor Link0=1308|Library Ref0=120|Library Path0=402|Footprint Ref0=139|Footprint Path0=323|Value0=98|Package0=103|MPN0=109|Manufacturer0=143|Distributor PN0=149|Distributor0=121
 [Table10]
 SchemaName=
 TableName=030 - Diode - Rectifier$
@@ -125,6 +122,9 @@ TableName=041 - Optoisolators$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=ID0=72|Description0=548|Datasheet0=3450|Distributor Link0=767|Library Ref0=125|Library Path0=356|Footprint Ref0=105|Footprint Path0=262|Value0=59|Package0=75|MPN0=131|Manufacturer0=121|Distributor PN0=161|Distributor0=91
 [Table17]
 SchemaName=
 TableName=043 - Transistors$
@@ -185,6 +185,9 @@ TableName=100 - Electromechanicals$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=707|Library Ref0=134|Library Path0=387|Footprint Ref0=162|Footprint Path0=262|ID0=72|Value0=127|Datasheet0=1221|Distributor Link0=1174|Package0=133|MPN0=143|Manufacturer0=156|Distributor PN0=170|Distributor0=91
 [Table27]
 SchemaName=
 TableName=110 - Connectors$
