@@ -52,7 +52,7 @@ UserWhere=0
 UserWhereText=[Datasheet] = '{Datasheet}'
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=701|Value0=155|Package0=75|Library Ref0=90|Library Path0=327|Footprint Ref0=105|Footprint Path0=262|Distributor Link0=1256|ID0=72|Datasheet0=1967|MPN0=174|Manufacturer0=187|Distributor PN0=180|Distributor0=91
+BrowserOrder_Visible=Description0=701|Value0=210|Package0=75|Library Ref0=90|Library Path0=327|Footprint Ref0=105|Footprint Path0=262|Distributor Link0=1256|ID0=72|Datasheet0=1967|MPN0=174|Manufacturer0=187|Distributor PN0=180|Distributor0=91
 [Table6]
 SchemaName=
 TableName=015 - Resistors - Shunt$
